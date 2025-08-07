@@ -1,6 +1,6 @@
 # 🖼️ image-file-checker
 
-A simple Python tool to verify the presence of expected image files in a target folder and generate a report listing any missing files.
+A Python tool to verify the presence of expected image files in a target folder and generate a report listing any missing files.
 
 ## 📌 Description
 
