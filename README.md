@@ -78,10 +78,11 @@ Depending on your selection, the structure will look like:
 - │ └── top_crop/
 - │ └── Example1_600x900.jpg
 
-![Original Images](upload/original Images.png)
-![Example output Images](upload/Example output Images.png)
-![Example output Images 2](upload/Example output Images 2.png)
-![Example output Images 3 Top crop](upload/Example output Images 3(Top crop).png)
-![Example output Images 3 Center crop](upload/Example output Images 3(Center crop).png)
+![Original Images](upload/original%20Images.png)
+![Example output Images](upload/Example%20output%20Images.png)
+![Example output Images 2](upload/Example%20output%20Images%202.png)
+![Example output Images 3 Top crop](upload/Example_output_Images_3_Top_crop.png)
+![Example output Images 3 Center crop](upload
+
 
 
