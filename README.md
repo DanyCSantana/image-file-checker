@@ -1,6 +1,6 @@
 # Image Resizing and Cropping for Inflight Entertainment
 
-This repository contains the Jupyter Notebook **`resize_and_crop_images.ipynb`**, designed to resize and crop images for inflight entertainment systems or similar workflows. Additional image-related scripts may be added to this directory in the future.
+This repository contains the Jupyter Notebook **`resize_and_crop_images.ipynb`**, designed to resize and crop images for entertainment systems or similar workflows. Additional image-related scripts may be added to this directory in the future.
 
 ## Features
 
