@@ -80,10 +80,12 @@ Depending on your selection, the structure will look like:
 
 ###  Image Examples
 
-![Original Images](original%20Images.png)  
-![Example output Images](Example%20output%20Images.png)  
-![Example output Images 2](Example%20output%20Images%202.png)  
-![Example output Images 3 Top crop](Example%20output%20Images%203%28Top%20crop%29.png)  
-![Example output Images 3 Center crop](Example%20output%20Images%203%28Center%20crop%2
+| Original | Output 1 | Output 2 |
+|----------|----------|----------|
+| ![Original](original%20Images.png) | ![Output](Example%20output%20Images.png) | ![Output 2](Example%20output%20Images%202.png) |
+
+| Top Crop | Center Crop |
+|----------|-------------|
+| ![Top Crop](Example%20output%20Images%203%28Top%20crop%29.png) | ![Center Crop](Example%20output%20Images%203%28Center%20crop%29.png) |
 
 
