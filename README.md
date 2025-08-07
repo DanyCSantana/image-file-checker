@@ -6,7 +6,7 @@ This repository contains a suite of automated scripts designed to resize and cro
 
 ##  Why this script was created
 
-In entertainment workflows, it's common to receive hundreds of original images that need to be resized and cropped into different dimensions (e.g., 600x900, 750x1120, 300x450, etc.) for different use cases like posters or stills.
+In entertainment workflows, it's common to receive hundreds of original images that need to be resized and cropped into unlimited dimensions (e.g., 600x900, 750x1120, 300x450, etc.) for different use cases like posters or stills.
 
 Doing this manually — using Photoshop or another image editor — is not only repetitive and time-consuming but also error-prone, especially when consistent naming, cropping logic, and format compression are required.
 
