@@ -1,4 +1,4 @@
-# Resize and Crop Images for Entertainment, like posters and still images.
+# Automated Resize and Crop of Unlimited Entertainment Images: Posters and Stills
 
 This repository contains the Jupyter Notebook **`resize_and_crop_images.ipynb`**, a script developed to automate the resizing and cropping of images for entertainment systems — or any other project that requires multiple standardized image formats.
 
@@ -16,7 +16,7 @@ This script automates the entire process, reducing a task that could take severa
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - Resize original images to **one or multiple dimensions**
 - **Center crop** (for Posters) or **Top + Center crop** (for Stills)
@@ -49,14 +49,14 @@ In larger projects (e.g., 300 images across 8 dimensions = 2,400 final outputs),
 
 ---
 
-## 🧠 Requirements
+## Requirements
 
 - Python 3.x
 - Pillow (`pip install Pillow`)
 
 ---
 
-## ✅ How to use
+## How to use
 
 1. Open the notebook `resize_and_crop_images.ipynb` in Jupyter or VSCode
 2. Run all cells
@@ -68,15 +68,15 @@ In larger projects (e.g., 300 images across 8 dimensions = 2,400 final outputs),
 
 ---
 
-## 📁 Output structure
+## Output structure
 
 Depending on your selection, the structure will look like:
 
 📁 output_folder/
-├── 600x900/
-│ ├── Example1_600x900.jpg ← Center crop only
-│ ├── center_crop/
-│ │ └── Example1.jpg
-│ └── top_crop/
-│ └── Example1_600x900.jpg
+- ├── 600x900/
+- │ ├── Example1_600x900.jpg ← Center crop only
+- │ ├── center_crop/
+- │ │ └── Example1.jpg
+- │ └── top_crop/
+- │ └── Example1_600x900.jpg
 
