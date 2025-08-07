@@ -1,4 +1,4 @@
-# Resize and Crop Images for Inflight Entertainment
+# Resize and Crop Images for Entertainment, like posters and still images.
 
 This repository contains the Jupyter Notebook **`resize_and_crop_images.ipynb`**, a script developed to automate the resizing and cropping of images for entertainment systems — or any other project that requires multiple standardized image formats.
 
