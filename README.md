@@ -1,8 +1,6 @@
-# Automated Resize and Crop of Unlimited Entertainment Images: Posters and Stills
+# Automated Image Resizing and Cropping Suite for Entertainment Media
 
-This repository contains the Jupyter Notebook **`resize_and_crop_images.ipynb`**, a script developed to automate the resizing and cropping of images for entertainment systems — or any other project that requires multiple standardized image formats.
-
-Other image-related scripts may be added to this directory in the future.
+This repository contains a suite of automated scripts designed to resize and crop images, primarily aimed at optimizing workflows for entertainment media such as posters and still images. It is ideal for professionals handling large volumes of images, saving time while ensuring consistent quality. (Jupyter Notebook **`resize_and_crop_images.ipynb`**)
 
 ---
 
