@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Pillow](https://img.shields.io/badge/Pillow-Image_Processing-orange)
+![TQDM](https://img.shields.io/badge/TQDM-Progress_Bar-yellow)
+
 # Automated Image Resizing and Cropping Suite for Entertainment Media
 
 This repository contains a suite of automated scripts designed to resize and crop images, primarily aimed at optimizing workflows for entertainment media such as posters and still images. It is ideal for professionals handling large volumes of images, saving time while ensuring consistent quality. (Jupyter Notebook **`resize_and_crop_images.ipynb`**)
