@@ -78,11 +78,12 @@ Depending on your selection, the structure will look like:
 - │ └── top_crop/
 - │ └── Example1_600x900.jpg
 
-![Original Images](upload/original%20Images.png)
-![Example output Images](upload/Example%20output%20Images.png)
-![Example output Images 2](upload/Example%20output%20Images%202.png)
-![Example output Images 3 Top crop](upload/Example_output_Images_3_Top_crop.png)
-![Example output Images 3 Center crop](upload
+###  Image Examples
 
+![Original Images](original%20Images.png)  
+![Example output Images](Example%20output%20Images.png)  
+![Example output Images 2](Example%20output%20Images%202.png)  
+![Example output Images 3 Top crop](Example%20output%20Images%203%28Top%20crop%29.png)  
+![Example output Images 3 Center crop](Example%20output%20Images%203%28Center%20crop%2
 
 
